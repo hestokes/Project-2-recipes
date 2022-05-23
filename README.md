@@ -55,4 +55,4 @@ Work-Day-Scheduler was created utilizing the following:
 
 - was created as a [boot camp](https://bootcamp.berkeley.edu/coding/) project. If you are interested in contributing, or have questions about this project, please contact me [here.](mailto:stokescomp01@gmail.com)
 
-![image](https://user-images.githubusercontent.com/92754368/169863833-123e2295-bfc5-4aae-9e66-649c5231ad70.png)
+
