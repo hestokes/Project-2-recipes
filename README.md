@@ -44,10 +44,11 @@
 Work-Day-Scheduler was created utilizing the following:
 
 - [Visual Studio Code](https://code.visualstudio.com/)
-- []()
-- []()
-- []()
-- []()
+- [node.js](https://nodejs.org/en/)
+- [express.js](https://expressjs.com/)
+- [handlebars.js](https://handlebarsjs.com/)
+- [MySQL](https://www.mysql.com/)
+- [Sequalize](https://sequelize.org/)
 
 ## Credits
 
@@ -58,6 +59,6 @@ Work-Day-Scheduler was created utilizing the following:
 
 ## Contributing / Reporting issues
 
-- was created as a [boot camp](https://bootcamp.berkeley.edu/coding/) project. If you are interested in contributing, or have questions about this project, please contact me [here.](mailto:stokescomp01@gmail.com)
+- Your Recipes! was created as a [boot camp](https://bootcamp.berkeley.edu/coding/) project. If you are interested in contributing, or have questions about this project, please contact me [here.](mailto:stokescomp01@gmail.com)
 
 
