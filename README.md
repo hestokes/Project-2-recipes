@@ -6,6 +6,7 @@
 >   - [Table of contents](#table-of-contents)
 >   - [About / Synopsis](#about--synopsis)
 >   - [Features](#features)
+>   - [Future](#future)
 >   - [Usage](#usage)
 >   - [Technology](#technology)
 >   - [Credits](#credits)
@@ -13,19 +14,23 @@
 
 ## About / Synopsis
 
--
-
+- Your Recipes! Was created as a group-project as a part of full-stack bootcamp. 
+- Your Recipes! offers the user an opportunity to share recipes with fellow foodies, comment on other foodies' recipes, and recieve and read comments on their own recipes.
+- Your Recipes is an In-progress app, and more additions are to come. 
 - If you would like to use a live deployed version of Your Recipes!, click [here.](https://big-sexy-repo.herokuapp.com/)
 
 ## Features
 
-    -
-    -
-    -
-    -
-    -
-    -
-    -
+    - Add your own favorite recipes
+    - See the recipes of other users
+    - Comment on recipes
+    - Recieve comments on your recipes
+
+## Future
+
+- Login functionality
+- Comment page
+- Recipe page
 
 ### Usage
 
