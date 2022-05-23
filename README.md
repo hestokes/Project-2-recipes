@@ -15,6 +15,7 @@
 ## About / Synopsis
 
 - Your Recipes! Was created as a group-project as a part of full-stack bootcamp. 
+- This app introduced, and educated the group, on the MVC paradigm, the incorporation of handlebars.js, MySQL retrieving and adding new data to a MySQL database, and adding authentication via express-session, and cookies (in-progress).
 - Your Recipes! offers the user an opportunity to share recipes with fellow foodies, comment on other foodies' recipes, and recieve and read comments on their own recipes.
 - Your Recipes is an In-progress app, and more additions are to come. 
 - If you would like to use a live deployed version of Your Recipes!, click [here.](https://big-sexy-repo.herokuapp.com/)
@@ -24,11 +25,11 @@
     - Add your own favorite recipes
     - See the recipes of other users
     - Comment on recipes
-    - Recieve comments on your recipes
+    - Receive comments on your recipes
 
 ## Future
 
-- Login functionality
+- Login/Authentication functionality
 - Comment page
 - Recipe page
 
@@ -52,10 +53,10 @@ Work-Day-Scheduler was created utilizing the following:
 
 ## Credits
 
-- [Help]()
-- [Help]()
+- [MVC Help](https://www.geeksforgeeks.org/mvc-framework-introduction/)
+- [Express-sessions Help](https://www.codecademy.com/learn/user-authentication-authorization-express/modules/session-authentication-express/cheatsheet)
 - [README guide](https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/)
-- [Musical inspiration]()
+- [Musical inspiration](https://www.youtube.com/watch?v=CUfl1GUbuvo)
 
 ## Contributing / Reporting issues
 
