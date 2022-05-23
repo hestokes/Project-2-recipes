@@ -17,8 +17,9 @@
 - Your Recipes! Was created as a group-project as a part of full-stack bootcamp. 
 - This app introduced, and educated the group, on the MVC paradigm, the incorporation of handlebars.js, MySQL retrieving and adding new data to a MySQL database, and adding authentication via express-session, and cookies (in-progress).
 - Your Recipes! offers the user an opportunity to share recipes with fellow foodies, comment on other foodies' recipes, and recieve and read comments on their own recipes.
-- Your Recipes is an In-progress app, and more additions are to come. 
+- Your Recipes! is an In-progress app, and more additions are to come. 
 - If you would like to use a live deployed version of Your Recipes!, click [here.](https://big-sexy-repo.herokuapp.com/)
+- If you would like to visit the Your Recipes! repot, please click [here.](https://github.com/hestokes/Project-2-recipes)
 
 ## Features
 
